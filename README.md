@@ -34,7 +34,7 @@ I am eager to learn, contribute to real-world projects, and grow with the organi
 ---
 
 ## 📫 Contact
-- **Email:** your-email@gmail.com  
+- **Email:** mrsamiralam21@gmail.com  
 - **GitHub:** https://github.com/samiralamm  
 
 ---
