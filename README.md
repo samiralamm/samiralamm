@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 Working on frontend projects using HTML, CSS, JavaScript & Bootstrap  <br>👯 Open to collaborate on frontend and UI-based projects  <br>🌱 Learning advanced JavaScript and modern CSS layouts  <br>💬 Ask me about frontend development and responsive design  <br>⚡ Fun fact: I enjoy polishing UI until it feels just right
+• Frontend Developer focusing on clean & responsive web interfaces  
+• Skilled in HTML, CSS, JavaScript, Bootstrap, and basic React  
+• Final year engineering student seeking internship / junior frontend roles  
+• Strong interest in UI design and real-world projects
 
 
 ## 🌐 Socials:
